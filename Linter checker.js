@@ -27,13 +27,6 @@ for (word of storyWords) {
   }
 }
 
-// console.log('really count:', reallyCount)
-// console.log('very count:', veryCount)
-// console.log('basically count:', basicallyCount)
-// Prints really count: 2
-// very count: 5
-// basically count: 1
-
 let sentencesCount = 0
 
 for (word of storyWords) {
